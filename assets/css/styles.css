@@ -1120,9 +1120,9 @@ body.dark-theme{
     transform: translateX(0);
   }
 
-  .home__social-link{
+  .home__social{
     font-size: 1rem;
-    padding: .2rem;
+    padding: .3rem;
     }
 }
 
