@@ -1119,11 +1119,6 @@ body.dark-theme{
   .contact__data .section__title-2{
     transform: translateX(0);
   }
-
-  .home__social{
-    font-size: 1rem;
-    padding: .3rem;
-    }
 }
 
 /* For medium devices */
